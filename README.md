@@ -1,4 +1,4 @@
 # weather_app
 geet 
 <br>
-weather forecaast
+weather forecast
